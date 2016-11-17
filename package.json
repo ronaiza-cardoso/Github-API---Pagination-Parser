@@ -1,0 +1,11 @@
+{
+  "name": "github-pagination-parser",
+  "version": "0.1.0",
+  "description": "parser to know what type of languague the user like basead on the likes on github",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ronaiza Card <ronaizacard@gmail.com>",
+  "license": "MIT"
+}
